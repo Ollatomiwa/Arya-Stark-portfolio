@@ -1,0 +1,69 @@
+html {
+   height:100%;
+}
+
+body{
+    width:970px;
+    background-image:url(img/arya3.jpg);
+    background-color:grey;
+    background-repeat: no-repeat;
+    background-size: cover;
+ 
+    
+}
+.container{
+               
+}            
+
+h3{
+    width: 40px;
+    color:red;
+    
+    font-size: 60px;
+} 
+h4{
+    font-size: 80px;
+    
+}
+nav a{
+    padding-right: 80px;
+    
+    color: olive;
+    width:100px;
+    
+    text-decoration: none;
+    padding-left: 100px;
+
+}
+aside a{
+    height:;
+    height:60px;
+    background-color: black;
+    color:red;
+    font-size: 60px;
+    text-decoration: none;
+    margin-top: auto;
+ 
+}
+h1{
+   
+    font-size: 100px;
+    font-family: Arial,Tahoma;
+    padding-top: 80px;
+    color: Red;
+   
+}
+ p{
+    font-size: 20px;
+    word-wrap: left;
+    color: black;
+    padding-bottom:-54px;
+    padding-top: -20px;
+    
+    
+}
+h5{
+    font-size: 20px;
+    color:black;
+    margin-bottom: 200px;
+}
